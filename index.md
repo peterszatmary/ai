@@ -2,9 +2,11 @@
 layout: default
 ---
 
-## A Jekyll template for publishing single-page websites and articles that are incredibly readable and fully responsive
+## This project contains my personal notes about artificial intelligence. As I learn I create this site to offer useful information for everybody interested in. If you find anything suspicious, inappropriate or missing just let me know. Wish you happy learning.
 
-### Nice, clean, reading!
+### What is AI
+
+There are of course more definitions out there. .....
 
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 
@@ -12,7 +14,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 > "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
-### With footnotes too!
+### Word cloud
+
+<a href="" target="_blank">a</a>, <a href="" target="_blank">b</a>, <a href="" target="_blank">c</a>
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
 
