@@ -6,14 +6,20 @@ layout: default
 
 ### What is AI
 
-There are of course more definitions out there.
+There are of course more definitions out there. Some of them are more precise some of them more vague.
+
 
 > "The ability to learn without any explicit programming.
+
+> "TODO
+
+> "TODO
 
 ### Word cloud
 
 <a href="" target="_blank">Artificial General Intelligence (AGI)</a>, 
-<a href="" target="_blank">Generative Adversarial Network `(GAN)</a>, 
+<a href="" target="_blank">Artificial Narrow Intelligence (ANI)</a>, 
+<a href="" target="_blank">Generative Adversarial Network (GAN)</a>, 
 <a href="" target="_blank">Artificial General Intelligence (AGI)</a>,
 <a href="" target="_blank">Artificial SuperIntelligence (ASI)</a>,
 <a href="" target="_blank">K-Means clustering</a>,
