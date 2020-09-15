@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## This project contains my personal notes about artificial intelligence. As I learn I create this site to offer useful information for everybody interested in. If you find anything suspicious, inappropriate or missing just let me know. Wish you happy learning.
+## This project contains my personal notes about artificial intelligence. As I learn I create this site to offer useful information for anybody interested in. If you find anything suspicious, inappropriate or missing just let me know. Wish you happy learning.
 
 ### What is AI
 
