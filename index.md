@@ -9,11 +9,12 @@ layout: default
 There are of course more definitions out there. Some of them are more precise some of them more vague.
 
 
-> "The ability to learn without any explicit programming.
+> "The ability to learn without any explicit programming."
 
-> "TODO
+> "is concern with methods of developing system that display aspects of intelligent behaviour. These systems are designed
+> to imitate the human capabilities of thinking and sensing."
 
-> "TODO
+> "TODO"
 
 ### Word cloud
 
@@ -29,17 +30,26 @@ There are of course more definitions out there. Some of them are more precise so
 <a href="" target="_blank">Natural Language Processing (NLP)</a>,
 <a href="" target="_blank">Expert systems</a>,
 <a href="" target="_blank">Sentence Boundary Disambiguation (SBD)</a>,
+<a href="" target="_blank">Evolutionary algorithm (EA)</a>,
+<a href="" target="_blank">Machine Learning (ML)</a>,
+<a href="" target="_blank">Named Entity Recognition (NER)</a>,
+<a href="" target="_blank">Part Of Speech (POS)</a>,
+<a href="" target="_blank">Lemmatization</a>,
+<a href="" target="_blank">Chunking</a>,
+<a href="" target="_blank">Language detection</a>,
+<a href="" target="_blank">Semi backward reasoning (chaining)</a>,
+<a href="" target="_blank">Friend of a friend (FOAF)</a>,
 
 ### AI software
 
 Google Custom Search Engine, Facebook Messenger API, Pager, Atomwise, Netbase, Crayon, Exceed.ai, Corus, Curata,
 Pattern89, AutoDraw.
 
-### AI Algorithms
+### History of AI
 
 <code>index.md</code>
 
-Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
+ and appear like this.[^1] Use as many as you like.[^2]
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 
