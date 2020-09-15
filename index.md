@@ -19,7 +19,7 @@ Enjoy them :
 
 ### Word cloud
 
-<a href="" target="_blank">Artificial General Intelligence (AGI)</a>, 
+<a href="/ai/artificial-general-intelligence.html" target="_blank">Artificial General Intelligence (AGI)</a>, 
 <a href="" target="_blank">Artificial Narrow Intelligence (ANI)</a>, 
 <a href="" target="_blank">Generative Adversarial Network (GAN)</a>, 
 <a href="" target="_blank">Artificial SuperIntelligence (ASI)</a>,
@@ -60,10 +60,10 @@ AutoDraw.
 
 ### History of AI
 
-1960 : Knowledge based Expert systems
-1970 : Transaction processing and decision support systems using AI
-1980 : Resembling the interconnected neuronal structures in the human brain
-1990 : Intelligent agents
+-  1960 : Knowledge based Expert systems
+-  1970 : Transaction processing and decision support systems using AI
+-  1980 : Resembling the interconnected neuronal structures in the human brain
+-  1990 : Intelligent agents
 
 ### AI algorithm
 
