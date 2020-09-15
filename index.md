@@ -39,6 +39,9 @@ There are of course more definitions out there. Some of them are more precise so
 <a href="" target="_blank">Language detection</a>,
 <a href="" target="_blank">Semi backward reasoning (chaining)</a>,
 <a href="" target="_blank">Friend of a friend (FOAF)</a>,
+<a href="" target="_blank">RDF triples</a>,
+<a href="schema.org" target="_blank">schema.org</a>,
+<a href="wikidata.org" target="_blank">Wikidata.org</a>,
 
 ### AI software
 
@@ -47,13 +50,23 @@ Pattern89, AutoDraw.
 
 ### History of AI
 
+1960 : Knowledge based Expert systems
+1970 : Transaction processing and decision support systems using AI
+1980 : Resembling the interconnected neuronal structures in the human brain
+1990 : Intelligent agents
+
+### AI algorithm
+
+<a href="" target="_blank">K-Means clustering</a>,
+<a href="" target="_blank">K-Means clustering</a>,
+<a href="" target="_blank">K-Means clustering</a>,
+<a href="" target="_blank">K-Means clustering</a>,
+
+### Add social sharing buttons
+
 <code>index.md</code>
 
  and appear like this.[^1] Use as many as you like.[^2]
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-### Add social sharing buttons
 
 Simply add the following line anywhere in your markdown:
 
