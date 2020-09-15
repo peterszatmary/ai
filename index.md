@@ -8,6 +8,10 @@ layout: default
 
 There are of course more definitions out there. .....
 
+The ability to learn without any explicit programming.
+
+
+
 Good clean read is set up with readability first in mind. Whatever you want to communicate here can be read easily, and without distraction. Of course, it's fully responsive, which means people can read it naturally on any phone, or tablet. Write it in markdown in <code>index.md</code> and get a beautifully published piece.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
@@ -16,7 +20,26 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ### Word cloud
 
-<a href="" target="_blank">a</a>, <a href="" target="_blank">b</a>, <a href="" target="_blank">c</a>
+<a href="" target="_blank">Artificial General Intelligence ( AGI )</a>, 
+<a href="" target="_blank">Generative Adversarial Network `( GAN )</a>, 
+<a href="" target="_blank">Artificial General Intelligence ( AGI )</a>,
+<a href="" target="_blank">Artificial SuperInteligence ( ASI )</a>,
+<a href="" target="_blank">K-Means clustering</a>,
+<a href="" target="_blank">Unsupervised machine learning</a>,
+<a href="" target="_blank">Supervised machine learning</a>,
+<a href="" target="_blank">Reinforcement machine learning</a>,
+<a href="" target="_blank">Natural Language Processing ( NLP )</a>,
+<a href="" target="_blank">Expert systems</a>,
+<a href="" target="_blank">Sentense Boundary Disambiguation ( SBD )</a>,
+
+
+### AI software
+
+Google Custom Search Engine, Facebook Messenger API, Pager, Atomwise, Netbase, Crayon, Exceed.ai, Corus, Curata,
+Pattern89, AutoDraw.
+
+### AI Algorihms
+
 
 Back up your stuff with solid, clean citations. Footnotes can be written in markdown and appear like this.[^1] Use as many as you like.[^2]
 
