@@ -7,6 +7,7 @@ layout: default
 ### What is AI
 
 There are of course more definitions out there. Some of them are more precise some of them more vague.
+Enjoy them :
 
 
 > "The ability to learn without any explicit programming."
@@ -21,7 +22,6 @@ There are of course more definitions out there. Some of them are more precise so
 <a href="" target="_blank">Artificial General Intelligence (AGI)</a>, 
 <a href="" target="_blank">Artificial Narrow Intelligence (ANI)</a>, 
 <a href="" target="_blank">Generative Adversarial Network (GAN)</a>, 
-<a href="" target="_blank">Artificial General Intelligence (AGI)</a>,
 <a href="" target="_blank">Artificial SuperIntelligence (ASI)</a>,
 <a href="" target="_blank">K-Means clustering</a>,
 <a href="" target="_blank">Unsupervised machine learning</a>,
@@ -42,11 +42,21 @@ There are of course more definitions out there. Some of them are more precise so
 <a href="" target="_blank">RDF triples</a>,
 <a href="schema.org" target="_blank">schema.org</a>,
 <a href="wikidata.org" target="_blank">Wikidata.org</a>,
+<a href="wikidata.org" target="_blank">Adversarial machine learning</a>,
 
 ### AI software
 
-Google Custom Search Engine, Facebook Messenger API, Pager, Atomwise, Netbase, Crayon, Exceed.ai, Corus, Curata,
-Pattern89, AutoDraw.
+Google Custom Search Engine,
+Facebook Messenger API, 
+Pager, 
+<a href="https://www.atomwise.com" target="_blank">Atomwise</a>,
+Netbase, 
+Crayon, 
+Exceed.ai, 
+Corus, 
+<a href="https://www.curata.com">Curata</a>,
+<a href="https://www.pattern89.com" target="_blank">Pattern89</a>, 
+AutoDraw.
 
 ### History of AI
 
