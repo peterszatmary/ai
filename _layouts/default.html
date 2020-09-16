@@ -19,6 +19,12 @@
   <article>
    <div class="container">
     <h1><a href="./">{{ site.tag_text }}</a></h1>
+       {% include description.html %}
+       {% if page.include_word_cloud %}
+            {% include ai-definitions.html %}
+            {% include {{ page.include_word_cloud }} %}
+       {% endif %}
+
     {{ content }}
     </div>
   </article>

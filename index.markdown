@@ -1,48 +1,11 @@
 ---
 layout: default
+include_word_cloud: word-cloud.html
 ---
 
-## This project contains my personal notes about artificial intelligence. As I learn I create this site to offer useful information for anybody interested in. If you find anything suspicious, inappropriate or missing just let me know. Wish you happy learning.
 
-### What is AI
-
-There are of course more definitions out there. Some of them are more precise some of them more vague.
-Enjoy them :
-
-
-> "The ability to learn without any explicit programming."
-
-> "is concern with methods of developing system that display aspects of intelligent behaviour. These systems are designed
-> to imitate the human capabilities of thinking and sensing."
-
-> "TODO"
-
-### Word cloud
-
-<a href="/ai/artificial-general-intelligence.html" target="_blank">Artificial General Intelligence (AGI)</a>, 
-<a href="" target="_blank">Artificial Narrow Intelligence (ANI)</a>, 
-<a href="" target="_blank">Generative Adversarial Network (GAN)</a>, 
-<a href="" target="_blank">Artificial SuperIntelligence (ASI)</a>,
-<a href="" target="_blank">K-Means clustering</a>,
-<a href="" target="_blank">Unsupervised machine learning</a>,
-<a href="" target="_blank">Supervised machine learning</a>,
-<a href="" target="_blank">Reinforcement machine learning</a>,
-<a href="" target="_blank">Natural Language Processing (NLP)</a>,
-<a href="" target="_blank">Expert systems</a>,
-<a href="" target="_blank">Sentence Boundary Disambiguation (SBD)</a>,
-<a href="" target="_blank">Evolutionary algorithm (EA)</a>,
-<a href="" target="_blank">Machine Learning (ML)</a>,
-<a href="" target="_blank">Named Entity Recognition (NER)</a>,
-<a href="" target="_blank">Part Of Speech (POS)</a>,
-<a href="" target="_blank">Lemmatization</a>,
-<a href="" target="_blank">Chunking</a>,
-<a href="" target="_blank">Language detection</a>,
 <a href="" target="_blank">Semi backward reasoning (chaining)</a>,
-<a href="" target="_blank">Friend of a friend (FOAF)</a>,
-<a href="" target="_blank">RDF triples</a>,
-<a href="schema.org" target="_blank">schema.org</a>,
-<a href="wikidata.org" target="_blank">Wikidata.org</a>,
-<a href="wikidata.org" target="_blank">Adversarial machine learning</a>,
+
 
 ### AI software
 
@@ -68,9 +31,7 @@ AutoDraw.
 ### AI algorithm
 
 <a href="" target="_blank">K-Means clustering</a>,
-<a href="" target="_blank">K-Means clustering</a>,
-<a href="" target="_blank">K-Means clustering</a>,
-<a href="" target="_blank">K-Means clustering</a>,
+
 
 ### Add social sharing buttons
 
