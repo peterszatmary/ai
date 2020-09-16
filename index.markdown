@@ -3,10 +3,6 @@ layout: default
 include_word_cloud: word-cloud.html
 ---
 
-
-<a href="" target="_blank">Semi backward reasoning (chaining)</a>,
-
-
 ### AI software
 
 Google Custom Search Engine,
