@@ -4,7 +4,7 @@ tag_text: Artificial Inteligence
 description: This project contains my personal notes about artificial intelligence. As I learn I create this site to offer useful information for everybody interested in. If you find anything suspicious, inappropriate or missing just let me know. Wish you happy learning.
 
 # prod urls
-url: "https://peterszatmary.com"
+url: "https://peterszatmary.com/ai"
 prod: "/ai"
 
 # local urls
