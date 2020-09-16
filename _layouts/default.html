@@ -6,13 +6,13 @@
   <meta name="description" content="{{ site.description }}">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="/assets/css/normalize.css">
-  <link rel="stylesheet" href="/assets/css/solo.css">
-  <link rel="stylesheet" href="/assets/css/syntax.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/normalize.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/solo.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/syntax.css">
   {% if site.font-awesome-include %}<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">{% endif %}
-  <link rel="stylesheet" href="/assets/css/rrssb.css">
+  <link rel="stylesheet" href="{{ site.url }}/assets/css/rrssb.css">
 
-  <script src="/assets/scripts/jquery.js"></script>
+  <script src="{{ site.url }}/assets/scripts/jquery.js"></script>
   <link rel="canonical" href="{{ site.url }}" />
 </head>
 <body>
@@ -28,6 +28,6 @@
     {{ content }}
     </div>
   </article>
-<script src="/assets/scripts/rrssb.min.js"></script>
+<script src="{{ site.url }}/assets/scripts/rrssb.min.js"></script>
 </body>
 </html>
