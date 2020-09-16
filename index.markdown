@@ -11,11 +11,12 @@ Pager,
 <a href="https://www.atomwise.com" target="_blank">Atomwise</a>,
 Netbase, 
 Crayon, 
-Exceed.ai, 
+<a href="https://exceed.ai/" target="_blank">Exceed.ai</a>, 
 Corus, 
-<a href="https://www.curata.com">Curata</a>,
+<a href="https://www.curata.com" target="_blank">Curata</a>,
 <a href="https://www.pattern89.com" target="_blank">Pattern89</a>, 
 AutoDraw.
+<a href="https://dozorro.org/" target="_blank">Dozorro</a>
 
 ### History of AI
 
@@ -33,7 +34,6 @@ AutoDraw.
 
 <code>index.md</code>
 
- and appear like this.[^1] Use as many as you like.[^2]
 
 Simply add the following line anywhere in your markdown:
 

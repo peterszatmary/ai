@@ -7,4 +7,4 @@ categories: NLP technique
 
 ### Definition
 
-> "TODO"
+> "Dividing sentences into grammatically meaningful word groups."

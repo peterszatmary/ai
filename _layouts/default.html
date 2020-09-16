@@ -25,9 +25,10 @@
             {% include {{ page.include_word_cloud }} %}
        {% else %}
             <h1><a href="./">{{ page.title }}</a></h1>
+            {% include categories.html %}
        {% endif %}
 
-    {{ content }}
+       {{ content }}
     </div>
   </article>
 <script src="{{ site.url }}{{ site.prod }}/assets/scripts/rrssb.min.js"></script>
