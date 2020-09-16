@@ -11,5 +11,5 @@ categories: NLP technique
 
 ### Classification
 
-- **Statistical** : needs modal built using training data.
+- **Statistical** : needs model built using training data.
 - **Dictionary** : based
