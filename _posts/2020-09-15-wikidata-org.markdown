@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Wikidata.org
-permalink: /ai/wikidata-org.html
+permalink: /wikidata-org.html
 categories: data NLP
 ---
 

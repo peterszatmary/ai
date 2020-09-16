@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Chunking
-permalink: /ai/chunking.html
+permalink: /chunking.html
 categories: NLP technique
 ---
 

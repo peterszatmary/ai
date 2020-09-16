@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Semi backward reasoning (chaining)
-permalink: /ai/semi-backward-reasoning.html
+permalink: /semi-backward-reasoning.html
 categories: categorisation technique
 ---
 

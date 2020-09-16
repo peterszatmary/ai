@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artificial general intelligence (AGI)
-permalink: /ai/artificial-general-intelligence.html
+permalink: /artificial-general-intelligence.html
 categories: categorisation
 ---
 

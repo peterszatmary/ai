@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Schema.org
-permalink: /ai/schema-org.html
+permalink: /schema-org.html
 categories: data NLP RDF triples
 ---
 
