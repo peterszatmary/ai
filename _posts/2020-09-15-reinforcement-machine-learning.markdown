@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reinforcement Machine Learning
-permalink: /reinforcement-machine-learning.html
+permalink: /ai/reinforcement-machine-learning.html
 categories: categorisation machine-learning technique
 ---
 

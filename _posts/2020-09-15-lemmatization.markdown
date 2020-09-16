@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Lemmatization
-permalink: /lemmatization.html
+permalink: /ai/lemmatization.html
 categories: NLP technique
 ---
 

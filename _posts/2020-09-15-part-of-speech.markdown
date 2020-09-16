@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Part Of Speech (POS)
-permalink: /part-of-speech.html
+permalink: /ai/part-of-speech.html
 categories: NLP technique
 ---
 

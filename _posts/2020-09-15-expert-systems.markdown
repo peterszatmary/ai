@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Expert Systems
-permalink: /expert systems.html
+permalink: /ai/expert systems.html
 categories: categorisation
 ---
 

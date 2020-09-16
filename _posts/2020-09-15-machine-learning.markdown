@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Machine Learning
-permalink: /machine-learning.html
+permalink: /ai/machine-learning.html
 categories: categorisation machine-learning
 ---
 

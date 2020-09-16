@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Named Entity Recognition (NER)
-permalink: /named-entity-recognition.html
+permalink: /ai/named-entity-recognition.html
 categories: NLP technique
 ---
 

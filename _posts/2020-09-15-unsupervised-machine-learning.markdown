@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Unsupervised Machine Learning
-permalink: /unsupervised-machine-learning.html
+permalink: /ai/unsupervised-machine-learning.html
 categories: categorisation machine-learning technique
 ---
 

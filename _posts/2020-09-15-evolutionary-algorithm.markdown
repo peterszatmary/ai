@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Evolutionary Algorithm (EA)
-permalink: /evolutionary-algorithm.html
+permalink: /ai/evolutionary-algorithm.html
 categories: categorisation
 ---
 

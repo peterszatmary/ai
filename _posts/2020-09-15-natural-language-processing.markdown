@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Natural Language processing (NLP)
-permalink: /natural-language-processing.html
+permalink: /ai/natural-language-processing.html
 categories: categorisation
 ---
 

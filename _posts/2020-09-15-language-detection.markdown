@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Language detection
-permalink: /language-detection.html
+permalink: /ai/language-detection.html
 categories: NLP technique
 ---
 
