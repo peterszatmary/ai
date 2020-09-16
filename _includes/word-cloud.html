@@ -1,4 +1,4 @@
 <h3>Word cloud</h3>
 {% for post in site.posts %}
-    <a href="{{ post.permalink }}" target="_blank">{{ post.title }}</a>,
+    <a href="{{ site.url }}{{ post.permalink }}" target="_blank">{{ post.title }}</a>,
 {% endfor %}
