@@ -2,7 +2,7 @@
 layout: default
 title: Deep Learning
 permalink: /deep-learning.html
-categories: categorisation machine-learning 
+tags: categorisation machine-learning 
 ---
 
 ### Definition

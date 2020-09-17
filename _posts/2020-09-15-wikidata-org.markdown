@@ -2,7 +2,7 @@
 layout: default
 title: Wikidata.org
 permalink: /wikidata-org.html
-categories: data NLP
+tags: data NLP
 ---
 
 ### Definition

@@ -2,7 +2,7 @@
 layout: default
 title: Reinforcement Machine Learning
 permalink: /reinforcement-machine-learning.html
-categories: categorisation machine-learning technique
+tags: categorisation machine-learning technique
 ---
 
 ### Definition

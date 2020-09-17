@@ -12,11 +12,11 @@ include_word_cloud: word-cloud.html
 - <a href="https://netbasequid.com/about-netbasequid/" target="_blank">Netbase</a> find out feedback for your product, 
 - <a href="https://www.crayon.co" target="_blank">Crayon</a> creates research about your competitors, 
 - <a href="https://exceed.ai/" target="_blank">Exceed.ai</a>, 
-- <a href="" target="_blank">Chorus</a>, 
+- <a href="" target="_blank">Chorus</a>,
 - <a href="https://www.curata.com" target="_blank">Curata</a>,
 - <a href="https://www.pattern89.com" target="_blank">Pattern89</a>, 
 - <a href="" target="_blank">AutoDraw</a> TODO,
-- <a href="https://dozorro.org/" target="_blank">Dozorro</a> helps to detect     the corruption,
+- <a href="https://dozorro.org/" target="_blank">Dozorro</a> helps to detect the corruption,
 
 ### History of AI
 
@@ -25,7 +25,7 @@ include_word_cloud: word-cloud.html
 -  1980 : Resembling the interconnected neuronal structures in the human brain
 -  1990 : Intelligent agents
 
-### AI algorithm
+### AI algorithms
 
 <a href="" target="_blank">K-Means clustering</a>,
 
@@ -63,18 +63,6 @@ Just remember to customize the buttons to fit your url in the `_includes/sharing
 If you need them, you can stick any of the [605 icons](http://fontawesome.io/icons/) anywhere, with any size you like. ([See documentation](http://fontawesome.io/examples/))
 
 <i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
-
-### Add images to make your point
-
-Images play nicely with this template as well. Add diagrams or charts to make your point, and the template will fit them in appropriately.
-
-<img src="https://peterszatmary.com/ai/assets/images/hello.svg" alt="sample image">
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Thanks to [Shu Uesengi](https://github.com/chibicode) for inspiring and providing the base for this template with his excellent work, [solo](https://github.com/chibicode).
-
-<hr>
 
 ##### Footnotes:
 

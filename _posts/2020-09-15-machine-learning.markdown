@@ -2,7 +2,7 @@
 layout: default
 title: Machine Learning
 permalink: /machine-learning.html
-categories: categorisation machine-learning
+tags: categorisation machine-learning
 ---
 
 ### Definition

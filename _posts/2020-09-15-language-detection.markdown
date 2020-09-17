@@ -2,7 +2,7 @@
 layout: default
 title: Language detection
 permalink: /language-detection.html
-categories: NLP technique
+tags: NLP technique
 ---
 
 ### Definition
