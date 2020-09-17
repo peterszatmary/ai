@@ -8,3 +8,7 @@ tags: categorisation RDF triples semantic-web
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

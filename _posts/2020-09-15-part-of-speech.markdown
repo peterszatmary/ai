@@ -8,3 +8,7 @@ tags: NLP technique
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

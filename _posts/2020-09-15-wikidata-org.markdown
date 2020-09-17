@@ -8,3 +8,7 @@ tags: data NLP
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

@@ -8,3 +8,7 @@ tags: NLP technique
 ### Definition
 
 > "Finds named entities like people, locals, organizations, addresses in raw text."
+
+<hr />
+
+##### Footnotes:

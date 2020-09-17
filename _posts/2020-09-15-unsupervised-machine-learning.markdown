@@ -12,3 +12,7 @@ tags: categorisation machine-learning technique
 - data are non classified (not labeled).
 - use cases: clustering, association.
 - TODO
+
+<hr />
+
+##### Footnotes:

@@ -9,3 +9,6 @@ tags: categorisation machine-learning technique
 
 > "TODO"
 
+<hr />
+
+##### Footnotes:

@@ -8,3 +8,7 @@ tags: categorisation NLP semantic-web
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

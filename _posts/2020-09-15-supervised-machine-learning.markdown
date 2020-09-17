@@ -8,3 +8,7 @@ tags: categorisation machine-learning technique
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

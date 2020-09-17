@@ -8,3 +8,7 @@ tags: data NLP RDF triples
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

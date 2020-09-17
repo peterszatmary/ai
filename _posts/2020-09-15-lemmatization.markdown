@@ -13,3 +13,7 @@ tags: NLP technique
 
 - **Statistical** : needs model built using training data.
 - **Dictionary** : based
+
+<hr />
+
+##### Footnotes:

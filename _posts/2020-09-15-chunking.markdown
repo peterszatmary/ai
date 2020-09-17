@@ -8,3 +8,7 @@ tags: NLP technique
 ### Definition
 
 > "Dividing sentences into grammatically meaningful word groups."
+
+<hr />
+
+##### Footnotes:

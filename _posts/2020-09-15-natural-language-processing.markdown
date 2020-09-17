@@ -34,3 +34,7 @@ NLP is tight with and uses
 <hr />
 
 [^1]: [https://onlim.com/en/how-do-machines-learn-to-understand-natural-language/](https://onlim.com/en/how-do-machines-learn-to-understand-natural-language/)
+
+<hr />
+
+##### Footnotes:

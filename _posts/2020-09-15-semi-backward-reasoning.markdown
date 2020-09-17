@@ -8,3 +8,7 @@ tags: categorisation technique
 ### Definition
 
 > "TODO"
+
+<hr />
+
+##### Footnotes:

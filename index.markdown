@@ -64,6 +64,8 @@ If you need them, you can stick any of the [605 icons](http://fontawesome.io/ico
 
 <i class="fa fa-building"></i>&nbsp;&nbsp;<i class="fa fa-bus fa-lg"></i>&nbsp;&nbsp;<i class="fa fa-cube fa-2x"></i>&nbsp;&nbsp;<i class="fa fa-paper-plane fa-3x"></i>&nbsp;&nbsp;<i class="fa fa-camera-retro fa-4x">
 
+<hr />
+
 ##### Footnotes:
 
 [^1]: This is a footnote. Click to return.
