@@ -20,7 +20,7 @@ NLP is tight with and uses
    - **<a href="{{ site.url }}{{ site.prod }}/part-of-speech.html">POS (Part of speech) tagging</a>** tag word like verbs, adjectives, nouns ... (TODO penn tree bank)
    - **<a href="{{ site.url }}{{ site.prod }}/lemmatization.html">Lemmatization</a>** mapping word form that have a tense, gender mood... to the base form of the word (Lemma)
    - **<a href="{{ site.url }}{{ site.prod }}/chunking.html">Chunking</a>** dividing sentences into grammatically meaningful word groups.
-   - **<a href="{{ site.url }}{{ site.prod }}/language-detection.html">Language detection</a>** needs training data file.
+   - **<a href="{{ site.url }}{{ site.prod }}/language-identification.html">Language identification</a>** needs training data file.
 
 ### Java libraries
 
