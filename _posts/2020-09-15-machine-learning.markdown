@@ -4,13 +4,13 @@ title: Machine Learning
 permalink: /machine-learning.html
 tags: categorisation machine-learning
 ---
-
-[reinforcement machine learning]({% link _posts/2020-09-15-reinforcement-machine-learning.markdown %}),
-[convolutional machine learning]({% link _posts/2020-09-17-convolutional-machine-learning.markdown %}),
-[supervised machine learning]({% link _posts/2020-09-15-supervised-machine-learning.markdown %}),
-[unsupervised machine learning]({% link _posts/2020-09-15-unsupervised-machine-learning.markdown %}),
-[deep learning]({% link _posts/2020-09-17-deep-learning.markdown %}),
-[adversarial machine learning]({% link _posts/2020-09-15-adversarial-machine-learning.markdown %})
+[Machine learning]({{site.url}}{{site.prod}}/machine-learning.html)
+[Reinforcement machine learning]({{site.url}}{{site.prod}}/reinforcement-machine-learning.html),
+[Convolutional machine learning]({{site.url}}{{site.prod}}/convolutional-machine-learning.html),
+[Supervised machine learning]({{site.url}}{{site.prod}}/supervised-machine-learning.html),
+[Unsupervised machine learning]({{site.url}}{{site.prod}}/2020-09-15-unsupervised-machine-learning.html),
+[Deep learning]({{site.url}}{{site.prod}}/deep-learning.html),
+[Adversarial machine learning]({{site.url}}{{site.prod}}/adversarial-machine-learning.html)
 
 ### Definition
 

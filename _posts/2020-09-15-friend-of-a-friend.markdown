@@ -5,7 +5,7 @@ permalink: /friend-of-a-friend.html
 tags: categorisation NLP semantic-web
 ---
 
-[NLP]({% link _posts/2020-09-15-natural-language-processing.markdown %})
+[NLP]({{site.url}}{{site.prod}}/natural-language-processing.html)
 
 ### Definition
 

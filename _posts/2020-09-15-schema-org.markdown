@@ -5,9 +5,9 @@ permalink: /schema-org.html
 tags: data NLP RDF triples
 ---
 
-[NLP]({% link _posts/2020-09-15-natural-language-processing.markdown %}),
-[RDF]({% link _posts/2020-09-15-rdf-triples.markdown %}),
-[Triples]({% link _posts/2020-09-15-rdf-triples.markdown %}),
+[NLP]({{site.url}}{{site.prod}}/natural-language-processing.html),
+[RDF]({{site.url}}{{site.prod}}/rdf-triples.html),
+[Triples]({{site.url}}{{site.prod}}/2020-09-15-rdf-triples.html),
 
 ### Definition
 

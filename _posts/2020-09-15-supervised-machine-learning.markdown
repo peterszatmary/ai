@@ -5,8 +5,8 @@ permalink: /supervised-machine-learning.html
 tags: categorisation machine-learning technique
 ---
 
-[machine learning]({% link _posts/2020-09-15-machine-learning.markdown %}),
-[unsupervised machine learning]({% link _posts/2020-09-15-unsupervised-machine-learning.markdown %})
+[Machine learning]({{site.url}}{{site.prod}}/machine-learning.html),
+[Unsupervised machine learning]({{site.url}}{{site.prod}}/unsupervised-machine-learning.html)
 
 ### Definition
 
