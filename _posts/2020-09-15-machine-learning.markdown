@@ -8,7 +8,7 @@ tags: categorisation machine-learning
 [Reinforcement machine learning]({{site.url}}{{site.prod}}/reinforcement-machine-learning.html),
 [Convolutional machine learning]({{site.url}}{{site.prod}}/convolutional-machine-learning.html),
 [Supervised machine learning]({{site.url}}{{site.prod}}/supervised-machine-learning.html),
-[Unsupervised machine learning]({{site.url}}{{site.prod}}/2020-09-15-unsupervised-machine-learning.html),
+[Unsupervised machine learning]({{site.url}}{{site.prod}}/unsupervised-machine-learning.html),
 [Deep learning]({{site.url}}{{site.prod}}/deep-learning.html),
 [Adversarial machine learning]({{site.url}}{{site.prod}}/adversarial-machine-learning.html)
 
