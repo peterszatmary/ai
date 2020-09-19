@@ -5,7 +5,7 @@ permalink: /adversarial-machine-learning.html
 tags: categorisation machine-learning technique
 ---
 
-[Machine learning]({% link {{site.url}}{{site.prod}}/2020-09-15-machine-learning.markdown %})
+[Machine learning]({{site.url}}{{site.prod}}/2020-09-15-machine-learning.html)
 
 ### Definition
 
