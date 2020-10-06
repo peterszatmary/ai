@@ -11,6 +11,7 @@ tags: categorisation machine-learning
 [Unsupervised machine learning]({{site.url}}{{site.prod}}/unsupervised-machine-learning.html),
 [Deep learning]({{site.url}}{{site.prod}}/deep-learning.html),
 [Adversarial machine learning]({{site.url}}{{site.prod}}/adversarial-machine-learning.html)
+[Semi-supervised machine learning]({{site.url}}{{site.prod}}/semi-supervised-learning.html)
 
 ### Definition
 

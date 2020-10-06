@@ -1,0 +1,20 @@
+---
+layout: default
+title: Semi supervised Learning
+permalink: /semi-supervised-learning.html
+tags: categorisation machine-learning technique
+---
+
+[Machine learning]({{site.url}}{{site.prod}}/machine-learning.html),
+[Unsupervised machine learning]({{site.url}}{{site.prod}}/unsupervised-machine-learning.html)
+[Semi-supervised machine learning]({{site.url}}{{site.prod}}/semi-supervised-learning.html)
+
+### Definition
+
+> "TODO"
+
+<hr />
+
+##### Footnotes:
+
+[^1]: https://www.deeplearningbook.org/contents/ml.html
