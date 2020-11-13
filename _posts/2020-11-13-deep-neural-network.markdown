@@ -18,14 +18,14 @@ tags: categorisation neural-network deep-learning
 
 - consist of input layer, output layer and one hidden layer. Layers contain nodes with edges.
 
-![Non deep NN](/assets/images/deep/non-deep.png)
+![Non deep NN]({{site.url}}{{site.prod}}/assets/images/deep/non-deep.png)
 
 ### Deep Neural network 
 
 - is the same structure consisting from one input layer, one output layer but more than one hidden layer ( 2 - 8 ).
 - Research from Goodfellow, Bengio and Courville and other experts suggests that neural networks increase in accuracy with the number of hidden layers [^3]
 
-![Non deep NN](/assets/images/deep/deep.png)
+![Non deep NN]({{site.url}}{{site.prod}}/assets/images/deep/deep.png)
 
 ### From Perceptron to Deep Neural Network
 

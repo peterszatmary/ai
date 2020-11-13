@@ -5,7 +5,7 @@ permalink: /learning-rate.html
 tags: categorisation neural-network deep-learning training hyperparameters
 ---
 
-[Hyperparameters]({{site.url}}{{site.prod}}/hyperparameters.html)
+[Hyperparameters]({{site.url}}{{site.prod}}/hyperparameters.html),
 [Cost function]({{site.url}}{{site.prod}}/cost-function.html)
 
 ### Definition

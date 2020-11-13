@@ -33,7 +33,7 @@ tags: categorisation neural-network deep-learning hyperparameters
 - Increasingly, neural networks use non-linear activation functions[^3]
 - Each neuron’s output is the input of the neurons in the next layer of the network, and so the inputs cascade through multiple activation functions until eventually, the output layer generates a prediction.
 
-![Activation function](/assets/images/activation-function/activation-fun.png)
+![Activation function]({{site.url}}{{site.prod}}/assets/images/activation-function/activation-fun.png)
 
 
 ### Activation function categories [^2]
@@ -50,7 +50,7 @@ tags: categorisation neural-network deep-learning hyperparameters
 
 - CON: The problem with a step function is that it does not allow multi-value outputs—for example, it cannot support classifying the inputs into one of several categories.[^3]
 
-[![sigmoid](/assets/images/activation-function/step.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
+[![sigmoid]({{site.url}}{{site.prod}}/assets/images/activation-function/step.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
 
 - [Binary step]()
 
@@ -76,7 +76,7 @@ Next you can find some of them most popular ones.
 - has a smooth gradient and outputs values between zero and one. 
 - For very high or low values of the input parameters, the network can be very slow to reach a prediction, called the vanishing gradient problem.
 
-[![sigmoid](/assets/images/activation-function/sigmoid.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
+[![sigmoid]({{site.url}}{{site.prod}}/assets/images/activation-function/sigmoid.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
 
 For more information see [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_function)
 
@@ -86,7 +86,7 @@ For more information see [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_functio
 
 - is zero-centered making it easier to model inputs that are strongly negative strongly positive or neutral.
 
-[![tanh](/assets/images/activation-function/tanh.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
+[![tanh]({{site.url}}{{site.prod}}/assets/images/activation-function/tanh.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
 
 - [Tanh]()
 
@@ -97,7 +97,7 @@ For more information see [Sigmoid](https://en.wikipedia.org/wiki/Sigmoid_functio
 - Results between 0 - 1 
 - is highly computationally efficient but is not able to process inputs that approach zero or negative.
 
-[![relu](/assets/images/activation-function/relu.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
+[![relu]({{site.url}}{{site.prod}}/assets/images/activation-function/relu.png)](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
 
 - [ReLU]({{site.url}}{{site.prod}}/rectified-linear-unit.html)
 

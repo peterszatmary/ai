@@ -16,7 +16,7 @@ TODO
 > the neuron. The perceptron, while it has a simple structure, has the ability to learn and solve very complex problems."
 
 
-![perceptron](/assets/images/perceptron.png)
+![perceptron]({{site.url}}{{site.prod}}/assets/images/perceptron.png)
 
 #### Multilayer perceptron (MLP)
 
@@ -25,7 +25,7 @@ TODO
 > An MLP contains an input layer, at least one hidden layer, and an output layer."
 
 
-![MLP](/assets/images/mlp.png)
+![MLP]({{site.url}}{{site.prod}}/assets/images/mlp.png)
 
 #### Perceptron learning process
 
@@ -34,5 +34,5 @@ TODO
 - Feeds the sum through the activation function—in a simple perceptron system, the activation function is a step function.
 The result of the step function is the output. 
 
-![MLP](/assets/images/perceptron-learning-process.png)
+![MLP]({{site.url}}{{site.prod}}/assets/images/perceptron-learning-process.png)
 
