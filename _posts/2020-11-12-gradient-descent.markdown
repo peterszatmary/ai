@@ -2,5 +2,5 @@ Backpropagation tracks the derivatives of the activation functions in each succe
 
 
 ### Batch gradient descent
-### Exploding descent
+### Exploding descent 
 ### Vanishing descent

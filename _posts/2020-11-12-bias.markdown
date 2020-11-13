@@ -1,1 +1,1 @@
-Biases are also assigned a weight.
+Biases are also assigned a weight. 
