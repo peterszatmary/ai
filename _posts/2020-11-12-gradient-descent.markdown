@@ -1,0 +1,6 @@
+Backpropagation tracks the derivatives of the activation functions in each successive neuron, to find weights that brings the loss function to a minimum, which will generate the best prediction. This is a mathematical process called gradient descent.
+
+
+### Batch gradient descent
+### Exploding descent
+### Vanishing descent

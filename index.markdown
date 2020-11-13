@@ -29,5 +29,18 @@ include_word_cloud: word-cloud.html
 
 <a href="" target="_blank">K-Means clustering</a>,
 
+### Frameworks & libraries
+
+#### Deep learning
+
+- [Keras](https://keras.io) python API
+- [Tensorflow](https://www.tensorflow.org)
+- [Pytorch](https://pytorch.org) Python API
+- [DL4J](https://deeplearning4j.org) Java
+- [Theano](http://deeplearning.net/software/theano/)
+- [Caffe](https://caffe.berkeleyvision.org)
+- [Chainer](https://chainer.org)
+- [Microsoft CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
+
 
 ##### Footnotes:
