@@ -32,9 +32,9 @@ predictions for a certain problem.
 - **How many times ( epochs ) training should be repeated**.
 - **Iterations** (whole data divided by number of batches) *iteration * batches = epoch*
 - **Batch size** (whole dataset divided to smaller chunks of data)
-- **Optimizer algorithm** TODO
-- **Momentum** TODO
-- **Epoch** (one whole learning cycle performed on whole dataset)
+- **Optimizer** is an algorithm or method used to change the attributes of your neural network such as weights and learning rate in order to reduce the losses. [^1]
+- **Epoch** (one whole learning cycle performed on a whole dataset)
+- **Momentum** <span class="color:red">TODO</span>
 
 
 ### Methods of Hyperparameter Tuning
@@ -66,11 +66,14 @@ predictions for a certain problem.
  It then extends this function to predict the best possible values. This method provides higher accuracy than random search.
  
 #### Other optimizations
- 
+
+- there are plenty other optimization algorithms
 - for other optimizations read [this comprehensive list](https://medium.com/@mikkokotila/a-comprehensive-list-of-hyperparameter-optimization-tuning-solutions-88e067f19d9)
  
 <hr />
 
 ##### Footnotes:
+
+[^1]: [Optimizers](https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6)
 
 

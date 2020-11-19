@@ -5,7 +5,7 @@ permalink: /multi-layer-perceptron.html
 tags: categorisation neural-network deep-learning
 ---
 
-TODO
+[An activation function]({{site.url}}{{site.prod}}/activation-function.html)
 
 ### Definitions
 
@@ -24,15 +24,27 @@ TODO
 > Each perceptron in the first layer (on the left) sends signals to all the perceptrons in the second layer, and so on.
 > An MLP contains an input layer, at least one hidden layer, and an output layer."
 
-
 ![MLP]({{site.url}}{{site.prod}}/assets/images/mlp.png)
 
 #### Perceptron learning process
 
-- Takes the inputs which are fed into the perceptrons in the input layer, multiplies them by their weights, and computes the sum.
-- Adds the number one, multiplied by a “bias weight”. This is a technical step that makes it possible to move the output function of each perceptron (the activation function) up, down, left and right on the number graph.
-- Feeds the sum through the activation function—in a simple perceptron system, the activation function is a step function.
-The result of the step function is the output. 
+At each neuron / perceptron in a hidden or output layer, the processing happens in two steps:
+
+- **Preactivation** it is a weighted sum of inputs i.e. the linear transformation of weights to inputs available with added [bias]({{site.url}}{{site.prod}}/bias.html). 
+**Based on this aggregated sum and activation function** the neuron makes a decision whether **to pass this information further or not**.
+- **Activation** the calculated weighted sum of inputs is passed to the [activation function]({{site.url}}{{site.prod}}/activation-function.html).
+Result of an activation function is output of perceptron and input for next layer perceptron. 
+
+TODO calculations
+
 
 ![MLP]({{site.url}}{{site.prod}}/assets/images/perceptron-learning-process.png)
 
+
+
+
+<hr />
+
+##### Footnotes:
+
+[^1]: [towardsdatascience.com](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)

@@ -1,1 +1,30 @@
-Each neuron is given a numeric weight. The weights, together with the activation function, define each neuron’s output. Neural networks are trained by fine-tuning weights, to discover the optimal set of weights that generates the most accurate prediction. 
+---
+layout: default
+title: Weights
+permalink: /weights.html
+tags: categorisation neural-network deep-learning
+---
+
+[bias]({{site.url}}{{site.prod}}/bias.html)
+
+### Definition
+
+> "A weight represents the strength of the connection between units."
+
+- If the weight from node 1 to node 2 has greater magnitude, it means that neuron 1 has greater influence over neuron 2. 
+- A weight brings down the importance of the input value. Weights near zero means changing this input will not change the output. 
+- Negative weights mean increasing this input will decrease the output. A weight decides how much influence the input will have on the output.
+- The weights, together with the activation function, define each neuron’s output. 
+- Neural networks are trained by fine-tuning weights, to discover the optimal set of weights that generates the most accurate prediction. 
+- bias has also its weight. Value of Bias is 1. Weight differs.
+  
+
+##### Footnotes:
+
+
+[^1]: [hackernoon.com](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
+
+
+
+
+

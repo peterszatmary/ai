@@ -1,1 +1,49 @@
-Biases are also assigned a weight. 
+---
+layout: default
+title: Bias
+permalink: /bias.html
+tags: categorisation neural-network deep-learning
+---
+
+[Activation function]({{site.url}}{{site.prod}}/activation-function.html)
+
+### Definition
+
+> "In artificial neural networks, the word bias has two meanings:[^1]
+>   
+>  - It can mean a bias neuron, which is part of the structure of the neural network. It is added to each neuron.
+>  - It can mean bias as a statistical concept, which reflects how well the network is able to generate predictions 
+>  based on the training samples you provide."
+
+
+### The Bias neuron
+
+- Bias (Offset) it is an extra input to neurons and it is always 1, and has it’s own connection weight. 
+- This makes sure that even when all the inputs are none (all 0’s) there’s gonna be an [activation in the neuron]({{site.url}}{{site.prod}}/activation-function.html).[^2]
+
+- In many cases it’s necessary to move the entire activation function to 
+ the left or to the right, upwards or downwards, to generate the required output values; 
+ the bias neuron makes this possible.[^1]
+ 
+[![bias]({{site.url}}{{site.prod}}/assets/images/bias.png)](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+
+ 
+### The Bias as a statistical concept
+
+- reflects how well the model fits the training set. 
+- **A high bias** means the neural network is not able to generate correct predictions even for the examples it trained on.
+ 
+### Variance
+
+- on other hand there is variance
+- reflects how well the model fits unseen examples in the validation set.  
+- **A high variance** means the neural network is not able to correctly predict for new examples it hasn’t seen before. 
+
+
+![bias]({{site.url}}{{site.prod}}/assets/images/bias-variance.png)
+
+##### Footnotes:
+
+[^1]: [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+[^2]: [hackernoon.com](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
+

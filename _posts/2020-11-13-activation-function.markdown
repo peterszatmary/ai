@@ -20,6 +20,7 @@ tags: categorisation neural-network deep-learning hyperparameters
 
 ### Activation functions
 
+- also known as (Transfer Function)
 - determine the output of a deep learning model, its accuracy, also the computational efficiency of training a model—which can make or break a large scale neural network. [^3]
 - have a major effect on the neural network’s ability to converge and the convergence speed. [^3]
 - When building a model and training a neural network, the selection of activation functions is critical. Experimenting with different activation functions for different problems will allow you to achieve much better results.
@@ -36,7 +37,7 @@ tags: categorisation neural-network deep-learning hyperparameters
 ![Activation function]({{site.url}}{{site.prod}}/assets/images/activation-function/activation-fun.png)
 
 
-### Activation function categories [^2]
+### Activation function categories
 
 - **Ridge activation functions** ( are univariate functions acting on a linear combination of the input variables. )[^2]
 - **Radial activation functions** ( A special class of activation functions known as radial basis functions (RBFs) are used in RBF networks, which are extremely efficient as universal function approximators. These activation functions can take many forms )[^2]
@@ -121,8 +122,15 @@ TODO img
 
 ##### Swish
 
-- is a new activation function discovered by Google researchers. 
-- It performs better than ReLu with a similar level of computational efficiency.
+- is a new activation function discovered by Google researchers. [^4]
+- It performs better than ReLu with a similar level of computational efficiency.[^4]
+- In 2017, after performing analysis on ImageNet data, researchers from Google alleged that using the function as an activation function in artificial neural networks improves the performance, compared to ReLU and sigmoid functions.[^4]
+- It is believed that one reason for the improvement is that the swish function helps alleviate the vanishing gradient problem during backpropagation.[^4]
+
+
+####
+
+
 
 #### Future
 
@@ -136,5 +144,7 @@ optimal activation function for a certain neural network and to even automatical
 ##### Footnotes:
 
 [^1]: [simplilearn.com](https://www.simplilearn.com/tutorials/deep-learning-tutorial/deep-learning-interview-questions)
-[^2]: [Wikipedia](https://en.wikipedia.org/wiki/Activation_function)
+[^2]: [Wikipedia activation function](https://en.wikipedia.org/wiki/Activation_function)
 [^3]: [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/7-types-neural-network-activation-functions-right/)
+[^4]: [Wikipedia swish](https://en.wikipedia.org/wiki/Swish_function)
+[^5]: [towardsdatascience.com](https://towardsdatascience.com/forward-propagation-in-neural-networks-simplified-math-and-code-version-bbcfef6f9250)

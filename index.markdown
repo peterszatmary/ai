@@ -43,4 +43,9 @@ include_word_cloud: word-cloud.html
 - [Microsoft CNTK](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 
 
+#### Quick start articles
+
+- [everything-you-need-to-know-about-neural-networks](https://hackernoon.com/everything-you-need-to-know-about-neural-networks-8988c3ee4491)
+
+
 ##### Footnotes:
