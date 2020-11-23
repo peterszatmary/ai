@@ -11,3 +11,5 @@ tags: categorisation neural-network deep-learning
 
 > "it is Neural network with 3 layers. One input, one hidden and one output layer."
 
+- number of inputs equals number of outputs
+

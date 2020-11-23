@@ -1,1 +1,23 @@
- 
+---
+layout: default
+title: Tensor
+permalink: /tensor.html
+tags: categorisation neural-network deep-learning
+---
+
+[Backpropagation]({{site.url}}{{site.prod}}/backpropagation.html),
+
+### Definition
+
+> "is a generalization of vectors and matrices and is easily understood as a multidimensional array."
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f5liqUk0ZTw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bpG3gqDM80w" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+<hr />
+
+##### Footnotes:
+
+[^1]: [TODO](TODO)

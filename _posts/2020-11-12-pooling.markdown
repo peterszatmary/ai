@@ -1,1 +1,26 @@
+---
+layout: default
+title: Pooling
+permalink: /pooling.html
+tags: categorisation neural-network deep-learning cnn
+---
  
+[Convolutional Neural Network]({{site.url}}{{site.prod}}/convolutional-neural-network.html)
+  
+> "second step in convolutional neural network which reduces the dimensionality of each feature while maintaining its most important information."
+
+### Pooling layer differs
+
+There are more Convolutional Neural networks base on different pooling layer.
+
+- Max pooling CNN [^3]
+- Dynamic Multi pooling CNN [^2]
+- 1-Max Pooling CNN [^4]
+
+##### Footnotes:
+  
+[^1]: [missinglink.ai](https://missinglink.ai/guides/neural-network-concepts/complete-guide-artificial-neural-networks/)
+[^2]: [Event Extraction via Dynamic Multi-Pooling Convolutional Neural Networks](https://www.aclweb.org/anthology/P15-1017.pdf)
+[^3]: [FAST IMAGE SCANNING WITH DEEP MAX-POOLING CONVOLUTIONAL NEURAL NETWORKS](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738831)
+[^4]: [Robust Audio Event Recognition with 1-Max Pooling Convolutional Neural Networks](https://arxiv.org/pdf/1604.06338.pdf)
+

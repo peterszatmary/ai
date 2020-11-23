@@ -6,7 +6,8 @@ tags: categorisation neural-network deep-learning
 ---
 
 [Cost function]({{site.url}}{{site.prod}}/cost-function.html),
-[Forward propagation]({{site.url}}{{site.prod}}/forward-propagation.html)
+[Forward propagation]({{site.url}}{{site.prod}}/forward-propagation.html),
+[Backpropagation through time (BPTT)]({{site.url}}{{site.prod}}/backpropagation-through-time.html)
 
 ### Definition
 

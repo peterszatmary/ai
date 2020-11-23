@@ -43,7 +43,7 @@ Gradient problem lead to long training times, poor performance and low accuracy.
 
 ### Gradient descent optimalization
 
-TODO
+TODO 
 
 ##### Footnotes:
 
