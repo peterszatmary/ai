@@ -11,6 +11,8 @@ tags: categorisation neural-network deep-learning
 
 > ""
 
+- preprocessing step to eliminate data redundancy
+
 <hr />
 
 ##### Footnotes:

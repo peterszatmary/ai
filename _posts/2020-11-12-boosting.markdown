@@ -1,0 +1,20 @@
+---
+layout: default
+title: Boosting
+permalink: /boosting.html
+tags: categorisation neural-network deep-learning
+---
+
+[Backpropagation]({{site.url}}{{site.prod}}/backpropagation.html),
+
+### Definition
+
+> ""
+
+- selecting data points which give wrong output to improve the accuracy.
+
+<hr />
+
+##### Footnotes:
+
+[^1]: [TODO](TODO)

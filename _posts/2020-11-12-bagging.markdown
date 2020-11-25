@@ -2,7 +2,7 @@
 layout: default
 title: Bagging
 permalink: /bagging.html
-tags: categorisation neural-network deep-learning
+tags: categorisation neural-network deep-learning training
 ---
 
 [Backpropagation]({{site.url}}{{site.prod}}/backpropagation.html),
@@ -10,6 +10,9 @@ tags: categorisation neural-network deep-learning
 ### Definition
 
 > ""
+
+- take dataset and split it into training and test data. 
+Then we randomply select data to place into the bags and train the model separately.
 
 <hr />
 
