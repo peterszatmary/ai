@@ -15,6 +15,8 @@ tags: categorisation machine-learning technique neural-network deep-learning
 > "TODO" 
 
 - the output came back as input.
+- signals travels in both directions creating a looped network. It considers the current input with the previously
+ received inputs for generating the output of a layer can memorize past data.
 
 ### Architecture
 
@@ -30,13 +32,16 @@ It is one of the advanced Neural Network architectures
 
 - on language and on sequential data (time series data) for example (written text, video, audio, or multiple events that
  occur one after the other, as in networking or security analytics, stock predictions)
-- Language modeling and text generation
+- Language modeling ,text generation, text mining
 - Machine translation from language to language
 - Speech recognition
 - Generating image description
 - Time-series anomaly detection
+- Time series data : Predicting stock prices
 - Video tagging
-- sentiment analysis
+- Sentiment analysis
+- Image captioning
+
 
 
 
