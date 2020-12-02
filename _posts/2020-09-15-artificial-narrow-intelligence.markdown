@@ -5,6 +5,9 @@ permalink: /artificial-narrow-intelligence.html
 tags: categorisation
 ---
 
+[AGI]({{site.url}}{{site.prod}}/artificial-general-intelligence.html),
+[ASI]({{site.url}}{{site.prod}}/artificial-super-intelligence.html)
+
 ### Definition
 
 > "program that demonstrate intelligence in one or in other specialized area, such as chess-playing, medical diagnosis, 
