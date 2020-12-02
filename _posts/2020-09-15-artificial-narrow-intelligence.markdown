@@ -25,6 +25,6 @@ examples of Narrow AI.
 
 ##### Footnotes:
 
-[^1]: [TODO](https://link.springer.com/chapter/10.1007%2F978-3-540-68677-4_1)
+[^1]: [Contemporary Approaches to Artificial General Intelligence](https://link.springer.com/chapter/10.1007%2F978-3-540-68677-4_1)
 [^2]: [Weak AI](https://en.wikipedia.org/wiki/Weak_AI)
 
