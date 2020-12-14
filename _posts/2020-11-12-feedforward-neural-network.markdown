@@ -11,6 +11,10 @@ tags: categorisation neural-network deep-learning
 
 > ""
 
+- Signals travels in one direction input - output. There are no feedback loops.
+- Network considers only current input. 
+- No memorizing.
+
 <hr />
 
 ##### Footnotes:

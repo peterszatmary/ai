@@ -11,6 +11,9 @@ tags: categorisation neural-network deep-learning
 
 > ""
 
+- technique to improve the performance and stability of neural networks by normalizing the inputs
+each layer.
+
 <hr />
 
 ##### Footnotes:
